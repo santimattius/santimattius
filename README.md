@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img  src="https://github.com/santimattius/santimattius/blob/main/flutter_kotlin.png" height="318" />
+<img  src="https://github.com/santimattius/santimattius/blob/main/flutter_kotlin.png" height="256" />
 
 ### Hi there, I'm Santiago Mattiauda
 
@@ -32,9 +32,16 @@ As a software developer I like to be constantly learning, experimenting with new
 - 🚀 I am currently practicing in [HackerRank](https://www.hackerrank.com/santimattius);
 - 💬 Ask me about anything, I am happy to help;
 
+### My favorite technologies:
 
+| **Programming languages** | **Platforms** | **Framework** |
+|---------------------------|---------------|---------------|
+| Kotlin                    | Android       | KMM           |
+| Swift                     | iOS           | Flutter       |
+| Dart                      | Linux         | Spring        |
+| Java                      | macOS         |               |
 
-📈 **My GitHub Stats:**
+### 📈  My GitHub Stats:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimattius&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
