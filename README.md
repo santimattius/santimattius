@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Who I am
 
-I am a system analyst, mobile developer and backend developer. In short I love writing code and even better quality code.
+I am a software engineer, mobile developer and backend developer. In short I love writing code and even better quality code.
 My areas of expertise are software architecture, testing and systems design. If I put aside the most important of my career the development of mobile applications, inspired by world-class applications and creating high-quality applications.
 As a software developer I like to be constantly learning, experimenting with new technologies, and enjoying great books, making difficult ones easy.
 
