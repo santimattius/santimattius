@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img  src="https://github.com/santimattius/santimattius/blob/main/flutter_kotlin.png" height="256" />
+<img  src="https://github.com/santimattius/santimattius/blob/main/github_header.png" height="256" />
 
 ### Hi there, I'm Santiago Mattiauda
 
