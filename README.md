@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-mattiauda-584548150/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/santimattius)
+[![GDP Badge](https://img.shields.io/badge/Google%20Developer%20Profile-success)](https://developers.google.com/profile/u/106124355514310297837)
+
 
 ### Who I am
 
