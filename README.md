@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img  src="https://github.com/santimattius/santimattius/blob/main/github_header.png"  />
+<p align="center">
+ <img height="400" src="https://github.com/santimattius/santimattius/blob/main/github_header.png"  />
+</p>
 
 ### Hi there, I'm Santiago Mattiauda
 
