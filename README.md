@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- <img height="400" src="https://github.com/santimattius/santimattius/blob/main/github_header.png"  />
+ <img height="400" src="https://github.com/santimattius/santimattius/blob/main/github-header-1.png"  />
 </p>
 
 ### Hi there, I'm Santiago Mattiauda
@@ -25,22 +25,26 @@ Here are some ideas to get you started:
 
 ### Who I am
 
-I am a software engineer, mobile developer and backend developer. In short I love writing code and even better quality code.
-My areas of expertise are software architecture, testing and systems design. If I put aside the most important of my career the development of mobile applications, inspired by world-class applications and creating high-quality applications.
-As a software developer I like to be constantly learning, experimenting with new technologies, and enjoying great books, making difficult ones easy.
+I am a software engineer with experience in mobile and backend development, focused on designing efficient and sustainable solutions, always paying attention to details to achieve clean and functional code.
+
+I have participated in the development of meticulously crafted mobile applications, with an emphasis on delivering solid user experiences. Additionally, I enjoy sharing learnings about Android and Kotlin Multiplatform, creating content that facilitates learning and promotes knowledge exchange within the community.
+
+I am driven by continuous learning and the exploration of new technologies, transforming complex challenges into practical and effective solutions. I believe in collaborative work as the foundation for building robust systems and applications that generate positive impact.
 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I am currently a member of the Mobile Architectura team at MercadoLibre, doing amazing things;
-- 🚀 I am currently practicing in [HackerRank](https://www.hackerrank.com/santimattius);
+- 👨🏻‍💻 I am currently a member of the Frontend Platform team at MercadoLibre, doing amazing things;
+- ✍🏻​ I usually write articles on Medium about Android and Kotlin Multiplatform
+<!-- 🚀 I am currently practicing in [HackerRank](https://www.hackerrank.com/santimattius);
+-->
 - 💬 Ask me about anything, I am happy to help;
 
 ### My favorite technologies:
 
 | **Programming languages** | **Platforms** | **Framework** |
 |---------------------------|---------------|---------------|
-| Kotlin                    | Android       | KMM           |
+| Kotlin                    | Android       | KMP           |
 | Swift                     | iOS           | Flutter       |
 | Dart                      | Linux         | Spring        |
 | Java                      | macOS         |               |
